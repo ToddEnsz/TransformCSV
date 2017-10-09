@@ -1,7 +1,5 @@
 # TransformCSV
-Merge multiple CSVs in Python - Mods of Ubbens Orig
-
-merge-csv.py
+Merge multiple CSVs in Python 
 
 Merge multiple CSVs with the same column structure and fail gracefully when CSVs don't match
 
